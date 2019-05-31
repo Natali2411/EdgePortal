@@ -1,0 +1,12 @@
+Appium-Python-Client==0.43
+behave==1.2.6
+cef==0.5
+parse==1.12.0
+parse-type==0.4.2
+pypiwin32==223
+pywin32==224
+pywin32-ctypes==0.2.0
+pywinauto==0.6.6
+selenium==3.141.0
+six==1.12.0
+urllib3==1.25.2
