@@ -24,7 +24,7 @@ def before_feature(context, feature):
     chrome_options.add_argument("--remote-debugging-port=9230")
     chrome_options.binary_location = "C:\\Program Files (x86)\\B2B Soft\\Wireless Standard\\ws_core.exe"
 
-    #chrome_options.add_experimental_option(name="debuggerAddress", value="127.0.0.1:9222")
+    chrome_options.add_experimental_option(name="debuggerAddress", value="127.0.0.1:9230")
     chrome_options.debugger_address = "127.0.0.1:9230"
 
 
